@@ -1,5 +1,6 @@
 version: 1
 backend:
+  stackName: YOSHIMURA-AMPLIFY
   phases:
     build:
       commands:
